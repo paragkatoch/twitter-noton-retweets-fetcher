@@ -1,0 +1,164 @@
+{
+    "twitterData": [
+        {
+            "id": "1294232942680485890",
+            "name": "Parag Katoch",
+            "username": "PreIdiot"
+        },
+        {
+            "id": "1288074230513328129",
+            "name": "Philip 🍕",
+            "username": "chiefphils"
+        },
+        {
+            "id": "1187386164195389446",
+            "name": "Umair Tariq",
+            "username": "bingJunior_"
+        }
+    ],
+    "uniqueTwitterData": [
+        {
+            "id": "1294232942680485890",
+            "name": "Parag Katoch",
+            "username": "PreIdiot"
+        },
+        {
+            "id": "1288074230513328129",
+            "name": "Philip 🍕",
+            "username": "chiefphils"
+        },
+        {
+            "id": "1187386164195389446",
+            "name": "Umair Tariq",
+            "username": "bingJunior_"
+        }
+    ],
+    "notionData": [],
+    "uniqueRetweets": [
+        {
+            "id": "1294232942680485890",
+            "name": "Parag Katoch",
+            "username": "PreIdiot"
+        },
+        {
+            "id": "1288074230513328129",
+            "name": "Philip 🍕",
+            "username": "chiefphils"
+        },
+        {
+            "id": "1187386164195389446",
+            "name": "Umair Tariq",
+            "username": "bingJunior_"
+        }
+    ],
+    "formattedData": [
+        {
+            "parent": {
+                "database_id": "6594b5fb2f2b46bf80c32f44cc572c28"
+            },
+            "properties": {
+                "Username": {
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "PreIdiot"
+                            }
+                        }
+                    ]
+                },
+                "id": {
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1294232942680485890"
+                            }
+                        }
+                    ]
+                },
+                "Name": {
+                    "title": [
+                        {
+                            "text": {
+                                "content": "Parag Katoch"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "parent": {
+                "database_id": "6594b5fb2f2b46bf80c32f44cc572c28"
+            },
+            "properties": {
+                "Username": {
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "chiefphils"
+                            }
+                        }
+                    ]
+                },
+                "id": {
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1288074230513328129"
+                            }
+                        }
+                    ]
+                },
+                "Name": {
+                    "title": [
+                        {
+                            "text": {
+                                "content": "Philip 🍕"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "parent": {
+                "database_id": "6594b5fb2f2b46bf80c32f44cc572c28"
+            },
+            "properties": {
+                "Username": {
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "bingJunior_"
+                            }
+                        }
+                    ]
+                },
+                "id": {
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1187386164195389446"
+                            }
+                        }
+                    ]
+                },
+                "Name": {
+                    "title": [
+                        {
+                            "text": {
+                                "content": "Umair Tariq"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
